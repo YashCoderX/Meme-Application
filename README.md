@@ -88,7 +88,7 @@ The API information and documentation can be found at https://localhost:8080/swa
 ```
 - Clone the repository
 cd backend; npm install
-node --experimental-json-modules app.js
+node app.js
 cd ../frontend
 npm start
 ```
